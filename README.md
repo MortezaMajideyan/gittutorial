@@ -31,6 +31,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [M2N76 🐺](https://github.com/M2N76)
 - [Farhood Tabrizi :alien:](https://github.com/farhoodtabrizi)
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
+- [morteza majideyan 🌘]([http://github.com/MortezaMajideyan))
 - Thank you for care about humanity, honor and Iran :heart:.[Farzam Raoufi](https://github.com/farzam-raoufi)
 - [Amir Salehi](https://github.com/amiryxe)
 - [Amin Komeili 😍🌺](https://github.com/Aminkomeili)
